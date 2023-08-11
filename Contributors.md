@@ -2,8 +2,8 @@
 
 - [Harshit Kumar] (https://github.com/harshitkk11)
 - [mgrTutka] (https://github.com/mgrTutka)
-- [Ankit Mukhia] (https://github.com/ankitmukhia)
 - [Fabi]
+- [Ankit Mukhia](https://github.com/ankitmukhia)
 - [Vladimir Gragert](https://github.com/GragertVD)
 - [Gaurav Bisht](https://github.com/iamgauravbisht)
 - [KentuckySato](https://github.com/KentuckySato)
